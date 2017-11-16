@@ -1,5 +1,5 @@
 @ECHO OFF 
-SET _BASEDIR=F:\Desktop\renew2.5
+SET _BASEDIR=C:\Users\joeis\Documents\GitHub\Data-Structures-1
 IF NOT DEFINED CLASSPATH GOTO NOCP
 SET _OLDPATH=%CLASSPATH%
 GOTO SETCP
